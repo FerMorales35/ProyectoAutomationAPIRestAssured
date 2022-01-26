@@ -1,4 +1,4 @@
-# ProyectoAPIAutomationRestAssured
+# Automatizacion API
 
 ##**Pre-requisites:**
 * Java 1.8 (JDK)

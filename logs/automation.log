@@ -1,0 +1,196 @@
+2022-01-26T14:51:12,491 [Test worker] INFO  (TestAPIBrewery.java:25) - Iniciando la configuracion
+2022-01-26T14:51:12,799 [Test worker] INFO  (TestAPIBrewery.java:29) - Configuracion exitosa
+2022-01-26T14:51:58,749 [Test worker] INFO  (TestAPIBrewery.java:25) - Iniciando la configuracion
+2022-01-26T14:51:59,059 [Test worker] INFO  (TestAPIBrewery.java:29) - Configuracion exitosa
+2022-01-26T15:22:30,030 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T15:22:30,414 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T15:23:32,137 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T15:23:32,538 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T15:27:57,647 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T15:27:58,059 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T15:27:59,930 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T15:27:59,931 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T15:28:00,880 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T15:28:00,882 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T15:28:30,334 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T15:28:30,726 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T15:28:32,426 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T15:28:32,427 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T15:28:33,390 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T15:28:33,391 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T15:34:20,119 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T15:34:20,535 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T15:34:22,445 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T15:34:22,447 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T15:34:23,411 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T15:34:23,412 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T15:35:06,402 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T15:35:06,804 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T15:35:08,585 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T15:35:08,587 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T15:35:09,592 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T15:35:09,593 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T15:39:40,389 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T15:39:40,801 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T15:40:28,171 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T15:40:28,561 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T15:40:30,311 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T15:40:30,313 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T15:40:31,290 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T15:40:31,291 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T15:41:31,485 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T15:41:31,881 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T17:02:29,563 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T17:02:29,970 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T17:04:04,579 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T17:04:04,980 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T17:06:23,441 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T17:06:23,854 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T17:06:25,676 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T17:06:25,678 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T17:06:26,665 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T17:06:26,667 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T18:09:46,616 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:09:46,998 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T18:09:48,881 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:09:48,883 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T18:09:49,835 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:09:49,836 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T18:19:05,133 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:19:05,513 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T18:22:27,620 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:22:28,276 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T18:22:30,399 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:22:30,401 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T18:22:31,372 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:22:31,374 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T18:29:37,650 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:29:38,421 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T18:29:40,801 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:29:40,803 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T18:29:41,737 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:29:41,739 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T18:31:19,886 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:31:20,273 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T18:31:21,994 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:31:21,995 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T18:31:22,961 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:31:22,962 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T18:33:34,664 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:33:35,042 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T18:33:36,739 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:33:36,740 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T18:33:37,699 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:33:37,701 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T18:39:16,840 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:39:17,214 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-dev.properties
+2022-01-26T18:41:00,399 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:41:00,759 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-prod.properties
+2022-01-26T18:41:00,788 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T18:41:33,001 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:41:33,355 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-prod.properties
+2022-01-26T18:41:33,388 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T18:41:52,848 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:41:53,198 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-prod.properties
+2022-01-26T18:41:53,226 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T18:42:43,347 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:42:43,693 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-prod.properties
+2022-01-26T18:42:43,722 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T18:42:45,407 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:42:45,409 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T18:42:46,373 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T18:42:46,374 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T19:03:59,310 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T19:03:59,665 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-prod.properties
+2022-01-26T19:03:59,694 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T19:04:01,468 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T19:04:01,469 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T19:04:02,427 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T19:04:02,428 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T19:05:23,276 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T19:05:23,629 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-prod.properties
+2022-01-26T19:05:23,660 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T19:09:41,021 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T19:09:41,382 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-prod.properties
+2022-01-26T19:09:41,413 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T19:19:23,602 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T19:19:24,236 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-prod.properties
+2022-01-26T19:19:24,298 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T19:19:26,486 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T19:19:26,488 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T19:19:27,468 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T19:19:27,470 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T19:20:58,821 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T19:20:59,445 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-prod.properties
+2022-01-26T19:20:59,506 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T19:21:01,660 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T19:21:01,662 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T19:21:02,570 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T19:21:02,571 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T19:22:35,823 [Test worker] INFO  (BaseTest.java:28) - Iniciando la configuracion
+2022-01-26T19:22:36,444 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-prod.properties
+2022-01-26T19:22:36,505 [Test worker] INFO  (BaseTest.java:30) - Configuracion exitosa
+2022-01-26T19:22:39,210 [Test worker] INFO  (BaseTest.java:28) - Iniciando la configuracion
+2022-01-26T19:22:39,211 [Test worker] INFO  (BaseTest.java:30) - Configuracion exitosa
+2022-01-26T19:22:40,187 [Test worker] INFO  (BaseTest.java:28) - Iniciando la configuracion
+2022-01-26T19:22:40,189 [Test worker] INFO  (BaseTest.java:30) - Configuracion exitosa
+2022-01-26T19:26:56,231 [Test worker] INFO  (BaseTest.java:28) - Iniciando la configuracion
+2022-01-26T19:26:56,591 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-prod.properties
+2022-01-26T19:26:56,621 [Test worker] INFO  (BaseTest.java:30) - Configuracion exitosa
+2022-01-26T19:26:58,724 [Test worker] INFO  (BaseTest.java:28) - Iniciando la configuracion
+2022-01-26T19:26:58,726 [Test worker] INFO  (BaseTest.java:30) - Configuracion exitosa
+2022-01-26T19:26:59,903 [Test worker] INFO  (BaseTest.java:28) - Iniciando la configuracion
+2022-01-26T19:26:59,905 [Test worker] INFO  (BaseTest.java:30) - Configuracion exitosa
+2022-01-26T19:27:50,215 [Test worker] INFO  (BaseTest.java:28) - Iniciando la configuracion
+2022-01-26T19:27:50,842 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-prod.properties
+2022-01-26T19:27:50,905 [Test worker] INFO  (BaseTest.java:30) - Configuracion exitosa
+2022-01-26T19:42:41,080 [Test worker] INFO  (BaseTest.java:28) - Iniciando la configuracion
+2022-01-26T19:42:41,450 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-prod.properties
+2022-01-26T19:42:41,479 [Test worker] INFO  (BaseTest.java:30) - Configuracion exitosa
+2022-01-26T19:42:43,600 [Test worker] INFO  (BaseTest.java:28) - Iniciando la configuracion
+2022-01-26T19:42:43,602 [Test worker] INFO  (BaseTest.java:30) - Configuracion exitosa
+2022-01-26T19:42:44,619 [Test worker] INFO  (BaseTest.java:28) - Iniciando la configuracion
+2022-01-26T19:42:44,621 [Test worker] INFO  (BaseTest.java:30) - Configuracion exitosa
+2022-01-26T19:43:37,112 [Test worker] INFO  (BaseTest.java:28) - Iniciando la configuracion
+2022-01-26T19:43:37,728 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-prod.properties
+2022-01-26T19:43:37,788 [Test worker] INFO  (BaseTest.java:30) - Configuracion exitosa
+2022-01-26T19:43:40,428 [Test worker] INFO  (BaseTest.java:28) - Iniciando la configuracion
+2022-01-26T19:43:40,430 [Test worker] INFO  (BaseTest.java:30) - Configuracion exitosa
+2022-01-26T19:43:41,410 [Test worker] INFO  (BaseTest.java:28) - Iniciando la configuracion
+2022-01-26T19:43:41,412 [Test worker] INFO  (BaseTest.java:30) - Configuracion exitosa
+2022-01-26T19:44:33,371 [Test worker] INFO  (BaseTest.java:28) - Iniciando la configuracion
+2022-01-26T19:44:34,001 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-prod.properties
+2022-01-26T19:44:34,065 [Test worker] INFO  (BaseTest.java:30) - Configuracion exitosa
+2022-01-26T19:45:25,914 [Test worker] INFO  (BaseTest.java:28) - Iniciando la configuracion
+2022-01-26T19:45:26,276 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-prod.properties
+2022-01-26T19:45:26,305 [Test worker] INFO  (BaseTest.java:30) - Configuracion exitosa
+2022-01-26T19:45:54,101 [Test worker] INFO  (BaseTest.java:28) - Iniciando la configuracion
+2022-01-26T19:45:54,454 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-prod.properties
+2022-01-26T19:45:54,486 [Test worker] INFO  (BaseTest.java:30) - Configuracion exitosa
+2022-01-26T19:45:56,552 [Test worker] INFO  (BaseTest.java:28) - Iniciando la configuracion
+2022-01-26T19:45:56,554 [Test worker] INFO  (BaseTest.java:30) - Configuracion exitosa
+2022-01-26T19:45:57,770 [Test worker] INFO  (BaseTest.java:28) - Iniciando la configuracion
+2022-01-26T19:45:57,771 [Test worker] INFO  (BaseTest.java:30) - Configuracion exitosa
+2022-01-26T19:47:01,708 [Test worker] INFO  (BaseTest.java:28) - Iniciando la configuracion
+2022-01-26T19:47:02,091 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-prod.properties
+2022-01-26T19:47:02,123 [Test worker] INFO  (BaseTest.java:30) - Configuracion exitosa
+2022-01-26T19:47:47,231 [Test worker] INFO  (BaseTest.java:28) - Iniciando la configuracion
+2022-01-26T19:47:47,835 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-prod.properties
+2022-01-26T19:47:47,890 [Test worker] INFO  (BaseTest.java:30) - Configuracion exitosa
+2022-01-26T19:51:35,579 [Test worker] INFO  (BaseTest.java:28) - Iniciando la configuracion
+2022-01-26T19:51:36,195 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-prod.properties
+2022-01-26T19:51:36,267 [Test worker] INFO  (BaseTest.java:30) - Configuracion exitosa
+2022-01-26T20:19:20,040 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T20:19:20,693 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-prod.properties
+2022-01-26T20:19:20,760 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T20:19:23,528 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T20:19:23,530 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T20:19:24,504 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T20:19:24,507 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T20:22:53,969 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T20:22:54,599 [Test worker] INFO  (ApplicationProperties.java:34) - Property file to read application-prod.properties
+2022-01-26T20:22:54,658 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T20:22:57,445 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T20:22:57,447 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa
+2022-01-26T20:22:58,453 [Test worker] INFO  (BaseTest.java:27) - Iniciando la configuracion
+2022-01-26T20:22:58,455 [Test worker] INFO  (BaseTest.java:29) - Configuracion exitosa

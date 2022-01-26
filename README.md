@@ -13,7 +13,6 @@ gradle clean test
 ##**Run test in a specific environment:**
 ```
 gradle clean test -Denv=prod
-
 ```
 
 ##**Run test and generate report:**
